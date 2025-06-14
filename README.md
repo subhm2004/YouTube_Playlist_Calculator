@@ -28,7 +28,7 @@ Make sure you have the following installed:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/project-bolt.git](https://github.com/subhm2004/YouTube_Playlist_Calculator/tree/main
+git clone https://github.com/subhm2004/YouTube_Playlist_Calculator/tree/main
 
 # Navigate to the project directory
 cd YouTube_Playlist_Calculator
